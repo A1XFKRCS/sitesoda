@@ -1,6 +1,6 @@
-  =>  Template Name    : Tourist - Travel Agency HTML Template
+  =>  Template Name    : GreenHost - Web Hosting HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/travel-agency-html-template
+  =>  Template Link    : https://htmlcodex.com/web-hosting-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 

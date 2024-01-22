@@ -68,17 +68,26 @@
     });
 
 
+    // Facts counter
+    $('[data-toggle="counter-up"]').counterUp({
+        delay: 10,
+        time: 2000
+    });
+
+
     // Testimonials carousel
     $(".testimonial-carousel").owlCarousel({
         autoplay: true,
         smartSpeed: 1000,
-        center: true,
-        margin: 24,
+        margin: 25,
         dots: true,
         loop: true,
-        nav : false,
+        center: true,
         responsive: {
             0:{
+                items:1
+            },
+            576:{
                 items:1
             },
             768:{
